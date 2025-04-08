@@ -74,10 +74,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AWSSDK.Rekognition">
-      <Version>3.7.400.125</Version>
+      <Version>3.7.400.129</Version>
     </PackageReference>
     <PackageReference Include="AWSSDK.S3">
-      <Version>3.7.416.1</Version>
+      <Version>3.7.416.5</Version>
     </PackageReference>
     <PackageReference Include="EntityFramework">
       <Version>6.5.1</Version>
